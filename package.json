@@ -1,6 +1,9 @@
 {
   "name": "package-publish",
   "version": "0.0.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@shresth7001/package-publish"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -8,9 +11,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@shresth7001/package-publish"
-  },
+
   "dependencies": {
     "@angular/animations": "^14.0.0",
     "@angular/common": "^14.0.0",
