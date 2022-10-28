@@ -9,7 +9,7 @@
     "test": "ng test"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@shresth7001//package-publish"
+    "registry": "https://npm.pkg.github.com/@shresth7001/package-publish"
   },
   "dependencies": {
     "@angular/animations": "^14.0.0",
