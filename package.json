@@ -2,7 +2,7 @@
   "name": "package-publish",
   "version": "0.0.0",
   "publishConfig": {
-    "@shresth7001:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/@shresth7001"
   },
   "scripts": {
     "ng": "ng",
